@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full-Stack Python and SpringBoot Development Projects<br>I'm looking to collaborate on Backend Development Projects<br>I'm looking for help with Backend Services<br>I'm currently learning Java Development <br>
+I'm currently working on Java - SpringBoot Development Projects<br>I'm looking to collaborate on Backend Development Projects<br>I'm looking for help with Backend Services<br>I'm currently learning Java Development <br>
 
 
 ## 🌐 Socials:
